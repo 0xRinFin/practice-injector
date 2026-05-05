@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/vscProjects/ac_cheat/injector/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/vscProjects/ac_cheat/injector/include -g -std=gnu++23 -fmodules-ts -fmodule-mapper=CMakeFiles\\my_app.dir\\src\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\my_app.dir\\src\\main.cpp.obj -c D:\\vscProjects\\ac_cheat\\injector\\src\\main.cpp",
+  "file": "D:/vscProjects/ac_cheat/injector/src/main.cpp",
+  "output": "D:/vscProjects/ac_cheat/injector/build/CMakeFiles/my_app.dir/src/main.cpp.obj"
+}
+]
