@@ -1,7 +1,0 @@
-# ninja log v7
-8	773	7997038106005903	CMakeFiles/my_app.dir/src/main.cpp.obj.ddi	8b873ad376325bc7
-774	813	7997038113663055	CMakeFiles/my_app.dir/CXX.dd	93ca3445e366288
-774	813	7997038113663055	CMakeFiles/my_app.dir/CXXModules.json	93ca3445e366288
-774	813	7997038113663055	CMakeFiles/my_app.dir/src/main.cpp.obj.modmap	93ca3445e366288
-814	4390	7997038114059843	CMakeFiles/my_app.dir/src/main.cpp.obj	ebd30e52312c7dc1
-4391	4590	7997038149831612	my_app.exe	62c23cdb3e23663c

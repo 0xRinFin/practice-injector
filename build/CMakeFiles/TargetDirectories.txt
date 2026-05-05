@@ -1,3 +1,0 @@
-D:/vscProjects/ac_cheat/injector/build/CMakeFiles/my_app.dir
-D:/vscProjects/ac_cheat/injector/build/CMakeFiles/edit_cache.dir
-D:/vscProjects/ac_cheat/injector/build/CMakeFiles/rebuild_cache.dir
